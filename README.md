@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Fox
 
-<!--
-**foxcapstan9v/foxcapstan9v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer working mostly in Python and Go. I like small, boring tools that
+remove repetitive work: log parsers, sync scripts, CI glue.
 
-Here are some ideas to get you started:
+- Currently: internal automation tooling
+- Learning: Rust (slowly)
+- Ask me about: Python packaging, SQLite, HTTP APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Toolbox
+
+Python · Go · SQLite · Postgres · Docker · Linux · GitHub Actions
+
+## Projects
+
+- [logtail-py](https://github.com/foxcapstan9v/logtail-py) — tail -f style log watcher with pattern matching
